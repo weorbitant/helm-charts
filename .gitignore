@@ -1,0 +1,18 @@
+# Helm files
+*.tgz
+.cr-release-packages/
+.cr-index/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc and local files
+*/*.local.yaml
