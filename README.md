@@ -7,7 +7,7 @@ This repository contains Helm charts that are automatically published using GitH
 ### Add the repository
 
 ```bash
-helm repo add orbitant https://orbitant.github.io/helm-charts
+helm repo add orbitant https://weorbitant.github.io/helm-charts
 helm repo update
 ```
 
